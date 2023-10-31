@@ -21,3 +21,12 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/ryanjuni/ryanjuni/assets/102491606/3c0106b5-2c5b-44b8-89a6-b8f2cd3a0858" width="280px" height="150px"/>
+</div>
+
+
+
+
+
