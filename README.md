@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/ryan-junio-733278258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.instagram.com/in/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:devflaviojunior@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ryanjuniofc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
 
@@ -83,14 +83,16 @@
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
-
+ Python 
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
+ Java 
 
 <code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png?raw=true"/></a></code>
 &nbsp; 
 
+ dbeaver 
 
 
 <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true"/></a></code>
