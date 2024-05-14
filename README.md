@@ -77,5 +77,5 @@
   <p> </p>
   
 </div>
-<p>Linguagens / Ferramentas : </p>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens / ferramentas:
 </div>
