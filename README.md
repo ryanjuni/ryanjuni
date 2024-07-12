@@ -33,8 +33,7 @@
 <div align="center">
   <h2>Sobre Mim</h2>
   <p>Olá :wave:, sou o <code>Ryan</code>, tenho 19 anos e moro em Ribeirão das Neves. Atualmente sou <code>Aluno</code> do curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e estou no 3º semestre do curso.</p>
-  <p>Hello :wave:, I'm Ryan, I'm 19 years old and I live in Ribeirão das Neves. I am currently a Computer Science student at <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, in the 3rd semester of the course.</p>
-</div>
+
 
 <div align="center">
   <h2>Estudando no Momento</h2>
