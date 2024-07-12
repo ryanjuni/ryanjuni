@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ryanjuni/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Seja%20 Bem %20-%20 Vindo %20 ;ao%20Meu%20Perfil;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Sejam%20 Bem %20-%20 Vindos %20 ;ao%20Meu%20Perfil;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
