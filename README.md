@@ -1,19 +1,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/ryanjuni">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ryan Junio" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryanjuni/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <h2>Contatos</h2>
+
   <a href="https://www.linkedin.com/in/ryan-junio-733278258/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn">
   </a>
@@ -26,13 +20,11 @@
 </div>
 
 <div align="center">
-  <h2>Contagem de Visitantes</h2>
-  <p><img src="https://profile-counter.glitch.me/{ryanjuni}/count.svg" alt="Visitor Count"></p>
-</div>
+
 
 <div align="center">
   <h2>Sobre Mim</h2>
-  <p>Olá :wave:, sou o <code>Ryan</code>,  Atualmente sou <code>Aluno</code> do curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e estou no 4º semestre do curso.</p>
+  <p>Olá  eu  sou o <code>Ryan</code>,  Atualmente sou <code>Aluno</code> do curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e estou no 4º semestre do curso.</p>
 
 
 <div align="center">
@@ -50,7 +42,7 @@
 
 <div align="center">
   <h2>Linguagens / Ferramentas</h2>
-  <p>
+  <p>36
     <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" alt="Python"/></a></code>
     <b>Python</b>
     <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" alt="Java"/></a></code>
