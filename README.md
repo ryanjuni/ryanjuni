@@ -42,7 +42,7 @@
 
 <div align="center">
   <h2>Linguagens / Ferramentas</h2>
-  <p>36
+  <p>
     <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" alt="Python"/></a></code>
     <b>Python</b>
     <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" alt="Java"/></a></code>
