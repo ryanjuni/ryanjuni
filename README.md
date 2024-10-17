@@ -27,18 +27,7 @@
   <p>Olá  eu  sou o <code>Ryan</code>,  Atualmente sou <code>Aluno</code> do curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e estou no 4º semestre do curso.</p>
 
 
-<div align="center">
-  <h2>Estudando no Momento</h2>
-  <ul align="left">
-    <li>✔ Lógica de Programação - Em Java</li>
-    <li>✔ Programação Orientada a Objetos - Em Java</li>
-    <li>✔ Sistemas Operacionais</li>
-    <li>✔ Análise de Dados</li>
-    <li>✔ Qualidade e Testes de Software</li>
-    <li>✔ Fundamentos de Ciências Exatas</li>
-    <li>✔ Fundamentos de Sistemas de Informação</li>
-  </ul>
-</div>
+
 
 <div align="center">
   <h2>Linguagens / Ferramentas</h2>
