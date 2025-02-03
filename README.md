@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Seja%20Bem%20Vindo%20ao%20Meu%20Perfil%20do%20GitHub;&font=Fira%20Code&center=true&width=500&height=45&color=e&vCenter=true&pause=1500&size=20" alt="Typing SVG" />
   </a>
 </p>
-
+</div>
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
@@ -39,7 +39,7 @@
          onmouseover="this.style.transform='scale(1.1)';" 
          onmouseout="this.style.transform='scale(1)';">
   </a> 
-  
+
 </div>
 
 ## 🏆 GitHub Stats:
