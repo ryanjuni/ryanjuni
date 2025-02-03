@@ -37,7 +37,7 @@
          alt="LinkedIn" 
          onmouseover="this.style.transform='scale(1.1)';" 
          onmouseout="this.style.transform='scale(1)';">
-  </a> </br>
+  </a> 
   
   <a href="https://www.instagram.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
@@ -45,7 +45,7 @@
          alt="Instagram" 
          onmouseover="this.style.transform='scale(1.1)';" 
          onmouseout="this.style.transform='scale(1)';">
-  </a> </br>
+  </a> 
   
 </div>
 
