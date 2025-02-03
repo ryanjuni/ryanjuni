@@ -1,8 +1,13 @@
 
 <div align="center">
   <h2>Sobre Mim</h2>
-  <p> Olá!  Eu sou o Ryan, atualmente estou no cursando de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
-</div>
+  <p> Olá!  Eu sou o Ryan, atualmente estou no curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
+
+<p align="center">
+  <a href="https://github.com/ryanjuni/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Seja%20Bem%20Vindo%20ao%20Meu%20Perfil%20do%20GitHub;&font=Fira%20Code&center=true&width=500&height=45&color=e&vCenter=true&pause=1500&size=20" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <div align="center">
@@ -35,12 +40,8 @@
          onmouseout="this.style.transform='scale(1)';">
   </a> 
   
-  
 </div>
-
-
 
 ## 🏆 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanjuni&show_icons=true&count_private=true&theme=dark)
-
