@@ -1,11 +1,7 @@
 
-
-
-
-
 <div align="center">
   <h2>Sobre Mim</h2>
-  <p>Olá! Eu sou o <code>Ryan</code>, atualmente estou no 4º semestre do curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
+  <p> Olá!  Eu sou o Ryan, atualmente estou no cursando de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
 </div>
 
 
