@@ -8,18 +8,6 @@
   <p>Olá! Eu sou o <code>Ryan</code>, atualmente estou no 4º semestre do curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
 </div>
 
-<div align="center">
-
-  <p>
-    <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" alt="Python"/></a></code> <b>Python</b>
-    <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" alt="Java"/></a></code> <b>Java</b>
-    <code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png?raw=true" alt="DBeaver"/></a></code> <b>DBeaver</b>
-    <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true" alt="PyCharm"/></a></code> <b>PyCharm</b>
-    <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true" alt="Visual Studio"/></a></code> <b>Visual Studio</b>
-    <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true" alt="IntelliJ"/></a></code> <b>IntelliJ</b>
-  </p>
-</div>
-
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
@@ -27,9 +15,11 @@
 
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Linguagens**: JavaScript, Python, C#
-- **Ferramentas**: Docker, Git, Jest, Webpack
-- **Bancos de Dados**: PostgreSQL, MongoDB
+- **Linguagens**: <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" alt="Java"/></a></code> Java <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" alt="Python"/></a></code>  Python
+- **Ferramentas**: <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true" alt="IntelliJ"/></a></code> <b>IntelliJ</b>
+  <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true" alt="Visual Studio"/></a></code> <b>Visual Studio</b>
+    <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true" alt="PyCharm"/></a></code> <b>PyCharm</b>
+- **Bancos de Dados**: <code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png?raw=true" alt="DBeaver"/></a></code> <b>DBeaver</b>
 
 
 <div align="center">
@@ -40,27 +30,23 @@
 ### 📫 Contato:
 
 <div align="left">
+  
   <a href="https://www.linkedin.com/in/ryan-junio-733278258/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          style="border-radius: 30px; background: linear-gradient(135deg, #0077b5, #00b0f0); transition: all 0.3s ease;" 
          alt="LinkedIn" 
          onmouseover="this.style.transform='scale(1.1)';" 
          onmouseout="this.style.transform='scale(1)';">
-  </a>
+  </a> </br>
+  
   <a href="https://www.instagram.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
          style="border-radius: 30px; background: linear-gradient(135deg, #E4405F, #FF6F61); transition: all 0.3s ease;" 
          alt="Instagram" 
          onmouseover="this.style.transform='scale(1.1)';" 
          onmouseout="this.style.transform='scale(1)';">
-  </a>
-  <a href="mailto:ryanjuniofc@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-         style="border-radius: 30px; background: linear-gradient(135deg, #333333, #555555); transition: all 0.3s ease;" 
-         alt="Gmail" 
-         onmouseover="this.style.transform='scale(1.1)';" 
-         onmouseout="this.style.transform='scale(1)';">
-  </a>
+  </a> </br>
+  
 </div>
 
 
