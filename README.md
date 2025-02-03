@@ -39,13 +39,6 @@
          onmouseout="this.style.transform='scale(1)';">
   </a> 
   
-  <a href="https://www.instagram.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-         style="border-radius: 30px; background: linear-gradient(135deg, #E4405F, #FF6F61); transition: all 0.3s ease;" 
-         alt="Instagram" 
-         onmouseover="this.style.transform='scale(1.1)';" 
-         onmouseout="this.style.transform='scale(1)';">
-  </a> 
   
 </div>
 
