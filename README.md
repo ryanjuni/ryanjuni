@@ -43,5 +43,8 @@
 </div>
 
 ## 🏆 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanjuni&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"   />
+  <img src="https://github.com/user-attachments/assets/f121ac80-bf25-47e3-b758-6f551ab2dbaa" alt="Laboratory 研究室" width="245" height="auto" style="margin-right: 600px;" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanjuni&show_icons=true&count_private=true&theme=dark)
