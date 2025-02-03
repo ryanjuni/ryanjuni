@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>Sobre Mim</h2>
-  <p> Olá!  Eu sou o Ryan, atualmente estou no curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
+  <p> Olá!  Eu sou o Ryan, No momento estou cursando de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou apaixonado por tecnologia e sempre busco aprender mais sobre novas linguagens e ferramentas. 🚀</p>
 
 <p align="center">
   <a href="https://github.com/ryanjuni/readme-typing-svg">
