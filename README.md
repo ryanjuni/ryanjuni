@@ -16,11 +16,19 @@
 
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Linguagens**: <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true" alt="Java"/></a></code> Java <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true" alt="Python"/></a></code>  Python
-- **Ferramentas**: <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true" alt="IntelliJ"/></a></code> <b>IntelliJ</b>
-  <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true" alt="Visual Studio"/></a></code> <b>Visual Studio</b>
-    <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true" alt="PyCharm"/></a></code> <b>PyCharm</b>
-- **Bancos de Dados**: <code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png?raw=true" alt="DBeaver"/></a></code> <b>DBeaver</b>
+ **Linguagens**:
+- Java  </br>
+- Python
+  
+**Ferramentas**:
+
+-   <b>IntelliJ</b>
+-   <b>Visual Studio</b>
+-   <b>PyCharm</b>
+
+  **Bancos de Dados**:
+-  <b>DBeaver</b> </br>
+-  <b> Linux </b>
 
 
 <div align="center">
