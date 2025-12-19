@@ -27,8 +27,13 @@
 -   <b>PyCharm</b>
 
   **Bancos de Dados**:
--  <b>DBeaver</b> </br>
+-  <b>DBeaver</b> 
+-  <b>MySQL</b>
+-  <b>SqLite</b> </br>
+
+**Sistemas Operacionais**:
 -  <b> Linux </b>
+-  <b> windows 10/11 </b>
 
 
 <div align="center">
