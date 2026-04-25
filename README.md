@@ -35,10 +35,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <br><br>
+
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=100&section=footer"/>
   <br>
+  <p align="center">
+    <sub>Desenvolvido com foco em eficiência e tecnologia. 🤝</sub>
+  </p>
+
   <p align="center">
     <sub>Desenvolvido com foco em eficiência e tecnologia. 🤝</sub>
   </p>
