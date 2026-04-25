@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=100&section=header"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Ryan+Junio;Software+Engineering+Student;Full+Stack+Development;Cloud+%26+Database+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Ryan+Junio;Computer+Science+Student;Full+Stack+Development;Cloud+%26+Database+Enthusiast" alt="Typing SVG" />
 
   <p>🎓 Bacharelando em <b>Ciência da Computação</b> no <a href="https://newtonpaiva.br/" target="_blank" style="text-decoration: none; color: #40E0D0;">Centro Universitário Newton Paiva</a></p>
 
