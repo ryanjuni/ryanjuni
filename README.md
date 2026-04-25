@@ -43,7 +43,4 @@
     <sub>Desenvolvido com foco em eficiência e tecnologia. 🤝</sub>
   </p>
 
-  <p align="center">
-    <sub>Desenvolvido com foco em eficiência e tecnologia. 🤝</sub>
-  </p>
 </div>
